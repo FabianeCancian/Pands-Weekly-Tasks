@@ -1,5 +1,5 @@
 # Pands my work
-This repository contains my code for weekly tasks on the Programming and Scripting course.
+This repository contains my code for weekly tasks on the Programming and Scripting course. This course is one of the modules of my Higher Diploma in Science in Data Analytics on Atlantic Technological University. Lectored by Professor Andrew Beatty.
 
 ## References:
 - [Strings slicing](https://www.w3schools.com/python/python_strings_slicing.asp)

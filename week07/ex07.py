@@ -33,7 +33,7 @@ def readFile(FILENAME):
     else:
         print("Format not supported")
 
-# This funciton will count the amount of e's in the text.
+# This function will count the amount of e's in the text.
 # It starts with 0 and everytime that the letter in text is equal to E 1 is added to the count. 
 def countE(text):
     count = 0
